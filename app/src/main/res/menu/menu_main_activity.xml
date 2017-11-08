@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/ver"
+        android:icon="@android:drawable/ic_menu_view"
+        android:title="@string/visualizar"></item>
+
+    <item android:id="@+id/calcular"
+        android:icon="@android:drawable/ic_menu_add"
+        android:title="@string/calcular"></item>
+
+</menu>
